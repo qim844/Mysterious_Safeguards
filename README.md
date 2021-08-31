@@ -1,3 +1,3 @@
 # Mysterious Safeguards
 
-CMU 2021 Data Structure Assignment
+CMU 2021 Software Engineering Management Summer Assignment
